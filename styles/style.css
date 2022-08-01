@@ -1,0 +1,340 @@
+body{
+    position: relative;
+}
+.get-start-title {
+    line-height: 1.688rem;
+}
+.get-start-text{
+    line-height: 1.125rem;
+    width: 260px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.wave{
+    background-image: url("../images/wave.png");
+    height: 339px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -55px;
+}
+.get-start-btn{
+    height: 3rem;
+    padding-right: 7.5rem;
+    padding-left: 7.5rem;
+    color: #F2F6FC;
+    margin-bottom: 2.5rem;
+}
+h1{
+    width: 8.938rem;
+}
+.input-cover{
+    width: 18.75rem;
+}
+.sign-in-input::placeholder{
+    color: rgba(62, 176, 155, 1);
+}
+.sing-in-btn{
+    width: 11.5rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    padding-left: 4.125rem;
+    padding-right: 4.125rem;
+    background: #00866A;
+    box-shadow: 0px 4px 8px rgba(0, 134, 106, 0.18), 0px 2px 4px rgba(0, 134, 106, 0.18);
+}
+.sign-in-with-btn{
+    margin-bottom: 9.313rem;
+}
+.sign-up-title{
+    height: 14.438rem;
+}
+.baby-bg-img{
+    position: absolute;
+    right: 0%;
+    top: 0%;
+}
+.days-to-go-part{
+    width: 42.6666%;
+}
+.kumquat-size-part{
+    width: 42.666%;
+}
+.upper-part{
+    background: radial-gradient(50% 50% at 50% 50%, #F3A183 0%, #EC6F66 100%);
+    
+    height: 9.438rem;
+}
+.uper-part-text{
+    align-self: start;
+    justify-self: start;
+}
+.janin-img{
+    transform: translateY(1rem);
+}
+.upper-part-orange {
+    background: radial-gradient(50% 50% at 50% 50%, #FF7054 11.98%, #FFB141 100%);
+    height: 9.438rem;
+}
+.orange-img{
+    transform: translateY(1rem);
+}
+.blue-navar{
+    width: 328px;
+    background: #00866A;
+    backdrop-filter: blur(41px);
+    height: 30px;
+    background-image: url(../images/wave2.png);
+    background-position: -10px;
+}
+.blue-navar-description{
+    width: 100%;
+}
+.blue-navar-text{
+    transform: translateY(-1rem);
+}
+.week-number{
+    background-image: url("../images/weekcounterbg.png");
+    width: 30px;
+    height: 30px;
+}
+.day-number{
+    background-image: url("../images/daycounterbg.png");
+    width: 30px;
+    height: 30px;
+}
+.weekanddayspart {
+    width: 328px; 
+}
+h5{
+    color: #00866A !important;
+}
+.tools-box-pink{
+    background-color: rgba(238, 96, 147, 1);
+}
+.tools-box-blue{
+    background-color: rgba(26, 176, 176, 1);
+}
+.tunder-icon{
+    margin-top: 1.813rem;
+    margin-bottom: 1.813rem;
+    margin-right: 2.25rem;
+    margin-left: 2.25rem;
+}
+.learn-more-color{
+    color: #00866A;
+}
+.figure-text-color{
+    color: rgba(100, 100, 100, 1);
+}
+.figure-title-color{
+    color: rgba(40, 40, 40, 1);
+}
+.video-bg{
+    background-image: url("../images/videobg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+}
+.video-effect-color{
+    height: 150px;
+    width: 100%;
+    background-color: rgba(0 , 0, 0, 0.4);
+}
+.see-more-btn{
+    background: #00866A;
+    box-shadow: 0px 4px 8px rgba(0, 134, 106, 0.18), 0px 2px 4px rgba(0, 134, 106, 0.18);
+    padding: 12px 128px;
+}
+.kick-counter-uper-side{
+    line-height: 150%;
+}
+.plus-bg{
+    background-color: rgba(238, 96, 147, 1);
+}
+.plus-blue-bg{
+ background-color:rgba(26, 176, 176, 1);
+}
+.number-kick-color{
+    color: rgba(33, 33, 33, 1);
+}
+.baby-kick-img{
+    width: 100px;
+    height: 100px; 
+    border-color: solid rgba(238, 96, 147, 1);
+    border: solid rgba(238, 96, 147, 1) 1px;
+    margin: 0 auto;
+}
+.stop-btn{
+    padding: 0.5rem 2.5rem;
+}
+.stop-pink{
+    background-color: rgba(238, 96, 147, 1);
+    box-shadow: 0px 4px 8px rgba(238, 96, 147, 0.18), 0px 2px 4px rgba(238, 96, 147, 0.18);
+}
+.stop-blue{
+    background-color: rgba(26, 176, 176, 1);
+    box-shadow: 0px 4px 8px rgba(26, 176, 176, 0.18), 0px 2px 4px rgba(26, 176, 176, 0.18);
+}
+.pink-navar{
+    width: 100%;
+    background-color: rgba(238, 96, 147, 1);
+    background-image: url(../images/pinkwave1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.blue-navar{
+    width: 100%;
+    background-color: rgba(26, 176, 176, 1);
+    background-image: url(../images/pinkwave1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.wave2{
+    width: 100%;
+    background-image: url(../images/pinkwave2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-gray-second-title-page-4{
+    color: ;
+}
+.countraction-level-part{
+    width: 268px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.04), 0px 2px 4px rgba(0, 0, 0, 0.04);
+}
+.countraction-level-active-btn-bg{
+    background-color: rgba(209, 239, 239, 1);
+}
+.countraction-level-active-btn-color{
+    color: rgba(26, 176, 176, 1);
+}
+.sleep-blue-btn{
+    background-color: rgba(26, 176, 176, 1);
+}
+.sleep-blue-btn-shadow{
+    box-shadow: 0px 2px 8px rgba(26, 176, 176, 0.08), 0px 4px 4px rgba(26, 176, 176, 0.08);
+}
+.countraction-level-btn-width{
+    width: 33%;
+}
+.me-2px{
+    margin-right: 0.125rem;
+}
+.text-blue{
+    color: rgba(57, 138, 165, 1);
+}
+.bg-blue{
+    background-color: rgba(57, 138, 165, 1);
+}
+.symptoms-search-box{
+    border: 1px solid rgba(57, 138, 165, 1);
+}
+.disabled-btn{
+    border: 1px solid rgba(172, 172, 172, 1);
+}
+
+.blue-btn-bg-enabled{
+    background-color: rgba(176, 208, 219, 1);
+}
+.symptoms-enabled-btn-border{
+    border: 1px solid rgba(97, 161, 183, 1);
+    ;
+}
+.blue-btn-text-enabled{
+    color: rgba(97, 161, 183, 1);
+}
+.pink-title-text{
+    color: rgba(225, 138, 182, 1);
+
+}
+.bg-pink{
+    background-color: rgba(231, 161, 197, 1);
+}
+.medication-search-box{
+    border: 1px solid 
+    rgba(231, 161, 197, 1);
+}
+.pink-btn-bg-enabled{
+    background-color: rgba(243, 208, 226, 1);
+}
+.medicance-enabled-btn-border{
+    border: 1px solid rgba(231, 161, 197, 1);
+    ;
+}
+.text-green{
+    color: rgba(69, 164, 167, 1);
+}
+.bg-green{
+    background-color: rgba(69, 164, 167, 1);
+}
+.mood-search-box {
+    border: 1px solid rgba(181, 219, 220, 1);
+}
+.green-btn-bg-enabled{
+    background-color: rgba(181, 219, 220, 1);
+}
+.green-btn-text-enabled{
+    color: rgba(106, 182, 185, 1);
+}
+.mood-enabled-btn-border {
+    border: 1px solid rgba(106, 182, 185, 1);
+}
+.calender-part{
+    border: 1px solid rgba(62, 176, 155, 1);
+}
+.clender-btn{
+    background: #00866A;
+    box-shadow: 0px 2px 8px rgba(0, 134, 106, 0.08), 0px 4px 4px rgba(0, 134, 106, 0.08);
+
+}
+.sleep-calender-part{
+    border: 1px solid #48C0C0;
+}
+.temp-btn {
+    background-color: rgba(122, 11, 68, 1);
+    box-shadow: 0px 2px 8px rgba(122, 11, 68, 0.08), 0px 4px 4px rgba(122, 11, 68, 0.08);
+}
+.temp-part-border{
+    border: 1px solid rgba(202, 157, 180, 1);
+}
+.temp-title-color{
+    color: rgba(122, 11, 68, 1);
+}
+.weight-title-color{
+    color: rgba(123, 151, 165, 1);
+}
+.weight-btn{
+    background-color: rgba(123, 151, 165, 1);
+    box-shadow: 0px 2px 8px rgba(123, 151, 165, 0.08), 0px 4px 4px rgba(123, 151, 165, 0.08);
+}
+.weight-part-border{
+    border: 1px solid rgba(149, 172, 183, 1);
+}
+.rounded-30px{
+   border-radius: 30px;
+}
+.border-green{
+    border: 1px solid #00866A;
+}
+.profil-page-bg{
+    background: #3EB09B;
+}
+.sign-out-color{
+    color: rgba(255, 0, 0, 1);
+
+}
+.runner-bg{
+    background-image: url("../images/tradmile.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 100%;
+}
+.drogs-bg{
+    background-image: url("../images/drogs1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 100%;
+}
+
